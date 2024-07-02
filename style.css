@@ -1,0 +1,26 @@
+*{
+    font-family: cursive;
+}
+body{
+    margin: 0;
+    text-align: center;
+    height: 100vh;
+    align-content: center;
+    background-color: #ffffff;
+    
+}
+.mainBox{
+    color: #bbbbbb;
+    mix-blend-mode: difference;
+}
+.mainBox button{
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+    mix-blend-mode: difference;
+}
+.mainBox button:hover{
+    font-size: 21px;
+    border: none;
+}
